@@ -66,6 +66,8 @@ To provide AdventureWorks executives and analysts with a unified, interactive BI
 https://github.com/PoojaVenkatesh3099/Adventure-Works-/blob/main/Exec%20dashboard%20-%20AW.png - https://github.com/PoojaVenkatesh3099/Adventure-Works-/blob/main/Customer%20Details%20-%20AW.png - https://github.com/PoojaVenkatesh3099/Adventure-Works-/blob/main/Product%20details%20-%20AW.png - https://github.com/PoojaVenkatesh3099/Adventure-Works-/blob/main/Map%20-%20AW.png - https://github.com/PoojaVenkatesh3099/Adventure-Works-/blob/main/Category%20tool%20tip%20-%20AW.png 
 
 <img width="1311" height="735" alt="Exec dashboard - AW" src="https://github.com/user-attachments/assets/3d5e24a1-5ac5-4974-be4d-f47e2619caae" />
+<img width="1312" height="735" alt="Product details - AW" src="https://github.com/user-attachments/assets/1440a139-cabc-4074-acfb-2f262a8325b2" />
+<img width="540" height="287" alt="Category tool tip - AW" src="https://github.com/user-attachments/assets/5a48d89a-b695-4137-9c60-512ad5e02461" />
 
 
 
